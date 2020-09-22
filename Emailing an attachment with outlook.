@@ -1,4 +1,6 @@
 # This function will send an email with or without an attachment using Microsoft Outlook
+# pip install pypiwin32
+# pypiwin32 version 223
 
 import win32com.client as win32
 
